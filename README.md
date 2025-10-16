@@ -15,7 +15,6 @@
 ## 🚀 About Me
 
 
-- 🔭 Currently working on **MedLens** - a health prediction and diagnosis app
 - 🌱 Learning **Node.js**, **Flutter**, and **Advanced Database Management**
 - 👯 Looking to collaborate on **open-source projects** and **mobile applications**
 - 📫 Reach me at: **sajaabbaspt@gmail.com**
@@ -51,39 +50,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saja-abbas&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saja-abbas&theme=radical)
 
 </div>
 
----
-
-## 🏆 Featured Projects
-
-### 🩺 [MedLens](https://github.com/Saja-abbas/medlens)
-> *"Scan, Analyze, and Stay Ahead of Illness"*
-
-AI-powered health prediction app with medical report scanning, disease diagnosis, and emergency assistance features.
-
-**Tech Stack:** Python Django | Flutter | MySQL | Machine Learning | Google Cloud AI
-
----
-
-### 🤰 [Maternity Cue](https://github.com/Saja-abbas/maternity-cue)
-> *"Your Journey, Our Care"*
-
-Pregnancy tracking app providing weekly updates, health insights, recipes, and expert guidance.
-
-**Tech Stack:** Flutter | Firebase | Visual Studio
-
----
-
-### 💼 [Personal Portfolio](https://saja-abbas.github.io)
-
-Professional resume website showcasing my skills, education, and projects.
-
-**Tech Stack:** HTML5 | CSS3 | JavaScript
-
----
 
 ## 📈 What I'm Working On
 
@@ -101,7 +70,7 @@ Professional resume website showcasing my skills, education, and projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saja-abbas)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saja-abbas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajaabbaspt@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saja-abbas.github.io)
+
 
 </div>
 
